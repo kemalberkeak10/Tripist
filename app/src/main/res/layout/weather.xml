@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="20dp"
+    android:layout_height="200dp">
+
+
+
+
+        android:max="282.59"
+        android:min="273.15"
+        android:unit="kelvin"
+        android:value="278.07" />
+
+
+        android:unit="kelvin"
+        android:value="275.88" />
+
+
+        android:unit="%"
+        android:value="86" />
+        android:unit="hPa"
+        android:value="1026" />
+
+
+
+
+            android:name="Calm"
+            android:unit="m/s"
+            android:value="0.93" />
+
+
+
+
+            android:name="North-northeast"
+            android:code="NNE"
+            android:value="23" /
+        android:name="clear sky"
+        android:value="1" />
+
+     android:value="16093" />
+
+    android:mode="no" />
+
+
+        android:icon="01n"
+        android:number="800"
+        android:value="clear sky" />
+
+     android:value="2020-01-07T11:33:40" />
+</LinearLayout>
